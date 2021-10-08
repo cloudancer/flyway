@@ -1,0 +1,22 @@
+{
+    "name": "cloudV",
+    "description": "Deploy V on Heroku.",
+    "keywords": ["cloudV"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "e566a714-3563-481b-b7d4-45349e34f1e8"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "6666"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/C"
+        }
+    },
+    "website": "",
+    "repository": "",
+    "stack": "container"
+}
